@@ -51,7 +51,7 @@ const Outer = () => {
 
     return (
         <>
-            <div className="nav"></div>
+            {/* <div className="nav"></div> */}
             <div className="container">
 
                 <div className="search">
