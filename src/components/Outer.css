@@ -150,8 +150,8 @@
     background-color:white;
     box-sizing: border-box;
     height: 25rem;
-   width: 100%;
-    margin-top: 5rem;
+   width: 95.9%;
+    margin-top: 3rem;
    
     border-radius: 4rem;
     
@@ -162,7 +162,13 @@
 }
 
 .degree{
-    font-size: 35px;
+    color: black;
+    font-weight: bolder;
+    
+    margin-right: 2rem;
+    color: white;
+    
+    font-size: 30px;
 }
 .location-state{
     font-size: 25px;
@@ -194,6 +200,12 @@
         width: 200px;
     }
     .degree{
+        color: black;
+        font-weight: bolder;
+        
+        margin-right: 2rem;
+        color: white;
+        
         font-size: 55px;
     }
     .container{
@@ -204,7 +216,7 @@
         background-color:white;
         box-sizing: border-box;
         height: 34rem;
-       width: 70%;
+       width: 99%;
         margin-top: 3rem;
         
         border-radius: 4rem;
